@@ -82,7 +82,7 @@ export default function Header() {
         </div>
 
         {/* Desktop Navigation */}
-        <nav className="hidden mr-10 md:flex items-center gap-4">
+        <nav className="hidden md:flex items-center gap-4">
           {navItems.map((item) => (
             <a
               key={item.name}
