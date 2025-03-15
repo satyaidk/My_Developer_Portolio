@@ -61,7 +61,7 @@ export default function About() {
             className="space-y-6"
           >
             <p className="text-lg">
-              I'm a versatile developer with a deep passion for emerging technologies. My journey began with traditional
+              I'm a versatile developer with a deep passion for emerging Technologies. My journey began with traditional
               software development, but I quickly expanded into specialized domains.
             </p>
             <p className="text-lg">
