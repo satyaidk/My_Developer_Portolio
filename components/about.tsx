@@ -66,7 +66,7 @@ export default function About() {
             </p>
             <p className="text-lg">
               In AI/ML, I've developed models for natural language processing, computer vision, and predictive
-              analytics. My Web3 experience includes smart contract development, DApp creation, and blockchain
+              analytics. My Web3 experience includes Smart Contract Development, DApp creation, and Blockchain
               integration.
             </p>
             <p className="text-lg">
