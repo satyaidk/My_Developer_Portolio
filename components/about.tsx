@@ -62,7 +62,7 @@ export default function About() {
           >
             <p className="text-lg">
               I'm a versatile developer with a deep passion for emerging Technologies. My journey began with traditional
-              software development, but I quickly expanded into specialized domains.
+              Software development, but I quickly expanded into specialized domains.
             </p>
             <p className="text-lg">
               In AI/ML, I've developed models for natural language processing, computer vision, and predictive
