@@ -71,7 +71,7 @@ export default function About() {
             </p>
             <p className="text-lg">
               I'm also proficient in DevOps and cloud computing, having architected scalable solutions on AWS, Azure,
-              and GCP. My goal is to leverage these technologies to build innovative solutions that address real-world
+              and GCP. My goal is to leverage these Technologies to build innovative solutions that address real-world
               challenges.
             </p>
           </motion.div>
