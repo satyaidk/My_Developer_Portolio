@@ -31,7 +31,7 @@ export default function Hero() {
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4">
               Hi, I&apos;m{" "}
               <span className="bg-clip-text text-transparent bg-gradient-to-r from-primary to-purple-500">
-                SatyaNarayana
+                SatyaNarayana Nikadi
               </span>
             </h1>
             <div className="h-12 mb-4">
