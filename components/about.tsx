@@ -48,7 +48,7 @@ export default function About() {
           </Badge>
           <h2 className="text-3xl md:text-4xl font-bold mb-4">My Journey So Far</h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            A passionate technologist with expertise spanning AI/ML, blockchain, and cloud computing.
+            A passionate Technologist with expertise spanning AI/ML, Blockchain, and Cloud computing.
           </p>
         </motion.div>
 
@@ -61,17 +61,17 @@ export default function About() {
             className="space-y-6"
           >
             <p className="text-lg">
-              I'm a versatile developer with a deep passion for emerging technologies. My journey began with traditional
-              software development, but I quickly expanded into specialized domains.
+              I'm a versatile Developer with a deep passion for emerging Technologies. My journey began with traditional
+              Software Development, but I quickly expanded into specialized domains.
             </p>
             <p className="text-lg">
               In AI/ML, I've developed models for natural language processing, computer vision, and predictive
-              analytics. My Web3 experience includes smart contract development, DApp creation, and blockchain
+              analytics. My Web3 experience includes Smart Contract development, DApp creation, and Blockchain
               integration.
             </p>
             <p className="text-lg">
               I'm also proficient in DevOps and cloud computing, having architected scalable solutions on AWS, Azure,
-              and GCP. My goal is to leverage these technologies to build innovative solutions that address real-world
+              and GCP. My goal is to leverage these Technologies to build innovative solutions that address real-world
               challenges.
             </p>
           </motion.div>
